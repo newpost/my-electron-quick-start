@@ -73,6 +73,7 @@ app.on('ready', () => {
   //     nodeIntegrationInWorker: true
   //   }
   // })
+  console.log("test");
 })
 
 
